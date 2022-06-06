@@ -1,0 +1,3 @@
+git revert requires the id of the commit you want to remove, keeping it into your history
+
+git reset requires the commit you want to keep, and will consequentially remove anything after that from history.
